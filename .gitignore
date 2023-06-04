@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /node_modules
 /.idea
 *.tsbuildinfo
@@ -93,3 +94,8 @@ typings/
 
 
 docs/.env.example
+=======
+.anchor
+target
+/node_modules
+>>>>>>> fc06c2b2 (Smart contract done)
